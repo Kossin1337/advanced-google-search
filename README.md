@@ -1,3 +1,21 @@
+Advanced Google Serach using Google Search API
+
+UI made in Figma:
+Live demo:
+
+Project made with: React.js, Typescript, TailwindCSS, React Router 6
+
+In the project I used custom hooks
+
+Customizeable search by filtering:
+
+-
+-
+
+Open the React App:
+npm install
+npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
